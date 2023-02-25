@@ -1,0 +1,81 @@
+body {
+    margin: 0px;
+}
+
+header {
+    text-align: center;
+}
+
+main {
+    margin: auto;
+    text-align: center;
+    width: 50%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#logo {
+    margin-top: 15px;
+    width: 200px;
+}
+
+#sottotitolo {
+    color: rgb(56, 117, 98);
+    background-color: rgb(247, 230, 209);
+    border-top: 1px solid #FFA500;
+    padding: 1em;
+}
+
+#descrizione {
+    text-align: left;
+}
+
+#immagine {
+    margin-bottom: 40px;
+}
+
+#focaccia {
+    width: 100%;
+    border-radius: 7px;
+}
+
+#credits {
+    color: grey;
+}
+
+#featured {
+    text-align: left;
+    border-left: 1px solid #FFA500;
+    padding-left: 20px;
+}
+
+#featuredin {
+    color: rgb(240, 164, 22);
+    margin-bottom: 5px;
+}
+
+#links {
+    color: rgb(56, 117, 98);
+}
+
+#altrecipe {
+    margin-top: 5px;
+}
+
+#ingredienti {
+    text-align: left;
+    margin-top: 70px;
+}
+
+#sezioni {
+    border-bottom: 1px solid rgb(56, 117, 98);
+    padding-bottom: 20px;
+}
+
+.liste {
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+#procedimento {
+    margin-top: 0px;
+}
